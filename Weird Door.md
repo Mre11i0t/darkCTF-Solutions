@@ -18,7 +18,7 @@ This chall was pretty simple if you did see every part of the chall and have som
 the description mentioned about a steganography technique which utilizes inivisible unicode charecters and uses encryption on it again.
 So the flow of solving the chall is you need to sum up the information and do a google search you will find about stegcloak which leads you to https://stegcloak.surge.sh/
 
-![alt text](https://filebin.net/0tzlt42mwn41fjq2/Screenshot_at_2020-08-16_16-18-43.png?t=vmbqfjl1 "Google search")
+![alt text](https://github.com/Mre11i0t/darkCTF-Solutions/blob/master/Screenshot%20at%202020-08-16%2016-18-43.png "Google search")
 
 Then if you see the chall text its pretty intresting and says about Death (Fictional charecter in Harrypotter who gave invisiblity cloak to Dumbledore and later given to HarryPotter)
 and also said about the door and a spell which breaks it as this is the password and its a spell 
